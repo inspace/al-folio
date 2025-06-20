@@ -7,3 +7,34 @@
 
 "Vision":
   color: "#009f36"
+
+"IMC":
+  url: https://www.sigcomm.org/events/imc-conference
+  color: "#00369f"
+
+"SIGCOMM":
+  url: https://www.sigcomm.org/events/sigcomm-conference
+
+"HotNets":
+  url: https://www.sigcomm.org/events/hotnets-workshop
+  color: "#b30000"
+
+"NSDI":
+  url: 
+  color: "#008000"
+
+"CCR":
+  url: https://www.sigcomm.org/publications/computer-communication-review
+  color: "#cd7f32"
+
+"TMA":
+  url:
+  color: 	"#e1a95f"
+
+"PAM":
+  url:
+  color: "#8c92ac"
+
+"INFOCOM":
+  url:
+  color: "#ffd700"
