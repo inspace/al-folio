@@ -30,3 +30,4 @@ I am an engineer at Meta. I received my Ph.D. in computer science from the Unive
 
 My research primarily focuses on Internet measurement and data-driven network systems on the Internet such as content delivery and traffic engineering. Before Meta, I worked on the Microsoft Azure CDN and then did a two year stint in backbone capacity planning. I also spent three years as an adjunct assistant professor at the Columbia University Data Science Institute.
 
+My [CV](assets/pdf/Resume.pdf).
